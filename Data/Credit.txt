@@ -1,0 +1,7 @@
+Dataset can be found here: https://www.kaggle.com/HRAnalyticRepository/absenteeism-dataset
+
+Author: People HR Analytics Repository
+
+Website: Kaggle
+
+I, Joseph Chancey, am not the creator/owner of this dataset. 
